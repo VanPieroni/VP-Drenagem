@@ -41,7 +41,6 @@ body{
 .cabecalho-menu-item:hover{
     text-decoration: underline;
 	color: rgb(187, 195, 192);
- 
 }
 
 .conteudo{
@@ -94,7 +93,7 @@ body{
 .conteudo-principal-escrito-botao:hover{
     background-color:  #586f66;
     color: #FFFFFF;
-
+    cursor: pointer;
 }
 
 .conteudo-principal-imagem{
@@ -139,10 +138,18 @@ body{
 
 
 .rodape{
+    background-color: #576F72;
+}
+.rodape-conteudo{
     display: flex;
-    flex-direction: column;
-    padding: 32px;
-    border-top: 2px solid #FFF2e7;
+    justify-content: center;
+}
+
+.rodape-conteudo2{
+    display: flex;
+    justify-content: center;
+    color: #26292a;
+    font-weight: 700;
 }
 
 
