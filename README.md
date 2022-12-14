@@ -5,23 +5,19 @@
 <h3> Essa é a página principal - Home<h3>
 
 
-![ImagemdaPágina](https://github.com/VanPieroni/VP-Drenagem/blob/main/Home1.png)
-
-![ImagemdaPágina](https://github.com/VanPieroni/VP-Drenagem/blob/main/Home2.png)
+![ImagemdaPágina](https://github.com/VanPieroni/VP-Drenagem/blob/main/Screen-Home.png)
 
   
 <h3> Essa é a página de contato - Formulário<h3>
 
 
-![ImagemdaPágina](https://github.com/VanPieroni/VP-Drenagem/blob/main/Contato1.png)
-
-![ImagemdaPágina](https://github.com/VanPieroni/VP-Drenagem/blob/main/Contato2.png)
+![ImagemdaPágina](https://github.com/VanPieroni/VP-Drenagem/blob/main/Screen%20-%20Formulario.png)
   
 
 <h3> E essa é a localização da empresa.<h3>
 
 
-![ImagemdaPágina](https://github.com/VanPieroni/VP-Drenagem/blob/main/Localizacao.png)
+![ImagemdaPágina](https://github.com/VanPieroni/VP-Drenagem/blob/main/Screen%20-%20Localizacao.png)
 
 
 <h3>Link da página:</h3> 
